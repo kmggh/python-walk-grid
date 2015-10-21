@@ -106,14 +106,14 @@ zombie requires will be a positive integer not exceeding 10.
 ### Test cases
 
 
-Inputs:
-   (int) food = 7
-   (int) grid = [[0, 2, 5], [1, 1, 3], [2, 1, 1]]
-Output:
-   (int) 0
+    Inputs:
+       (int) food = 7
+       (int) grid = [[0, 2, 5], [1, 1, 3], [2, 1, 1]]
+    Output:
+       (int) 0
 
-Inputs:
-   (int) food = 12
-   (int) grid = [[0, 2, 5], [1, 1, 3], [2, 1, 1]]
-Output:
-   (int) 1
+    Inputs:
+       (int) food = 12
+       (int) grid = [[0, 2, 5], [1, 1, 3], [2, 1, 1]]
+    Output:
+       (int) 1
