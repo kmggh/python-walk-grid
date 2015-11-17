@@ -32,6 +32,7 @@ To Run
 
     ./solution.py
     ./random_solution.py
+    ./spec_solution.py --help
 
 
 To Test
@@ -45,11 +46,13 @@ Bugs/Next Steps
 ---------------
 
 Add an option to random_solution.py to allow setting the grid size.
-Maybe all parameters.
+Maybe all parameters. (DONE)
 
 Prune the search to make the solutions faster.  Track the minimum
 solution and abort branches that exceed it.  This is really the main
-goal of this exercise.
+goal of this exercise. (DONE)
+
+Record and report the solution path through the grid.
 
 
 Original Story
